@@ -1,0 +1,26 @@
+You have been contracted by Flop Idol Judge Simon Coward's music company to provide software for the provision of backstage passes at the Flop Idol competition final.
+
+The software will contain a list (array) of names containing 10 people (some famous some not) that are to be provided with backstage passes. When a person's name is entered the system will check to see if they are found	on the VIP list and display a relevant message. The overall outline of the program is described in more detail below.
+
+The software must do the following:
+Prompt for input of name,
+Take input of name and store in an appropriately named variable,
+Check name against the list (array) of names,
+If the name exists in the list display the following:
+"Please provide NAME OF PERSON with a backstage pass."
+Else if the name does not exist in the list then display the following:
+"Sorry NAME OF PERSON is not on the backstage list."
+Go back to first instruction to allow checking of another person.
+
+
+List of Names to Use:
+Amy Beerhome
+Paul McCartwheel
+Brittany Speared
+Sue Ridge
+Bob Down
+Wacko Jackson
+Sidney Sparkle
+Bill Tarmac
+Bruce Fossil
+Madonna Kebab

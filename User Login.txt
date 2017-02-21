@@ -1,0 +1,19 @@
+//In C#,Java, or C++ using visual studio or IntelliJ do the following:
+
+//Create a program that does the following:
+
+
+//1.)prompt the user to "enter a username or type "Create Account" "
+//2.)if they typed "Create Account" 
+//2a)     ask them to enter a username, 
+//2b)     check if username already exist if it does go back to 2a
+//2b)     ask them to enter their name,
+//2c)     ask them to enter a password,
+//2d)     ask them to confirm password,
+//2e)     if the passwords do not match go back to 2c
+//2f)     it should create the account (add username, name, and password to correspoding lists) then go back to 1.
+//
+//3.)ask the user for a correspoding password
+//4.)check if username and password pair match existing entries.
+//5.)if they do print "welcome " + name . and exit the program
+//6.)if they do not match an existing entry prompt user "invalid credentials" and go back to 1.

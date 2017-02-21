@@ -1,0 +1,6 @@
+H:\(3) Arrays and List\Practice with lists WH- 1.5\Practice with lists WH- 1.5\bin\Debug\Practice with lists WH- 1.5.exe.config
+H:\(3) Arrays and List\Practice with lists WH- 1.5\Practice with lists WH- 1.5\bin\Debug\Practice with lists WH- 1.5.exe
+H:\(3) Arrays and List\Practice with lists WH- 1.5\Practice with lists WH- 1.5\bin\Debug\Practice with lists WH- 1.5.pdb
+H:\(3) Arrays and List\Practice with lists WH- 1.5\Practice with lists WH- 1.5\obj\Debug\Practice with lists WH- 1.5.csprojResolveAssemblyReference.cache
+H:\(3) Arrays and List\Practice with lists WH- 1.5\Practice with lists WH- 1.5\obj\Debug\Practice with lists WH- 1.5.exe
+H:\(3) Arrays and List\Practice with lists WH- 1.5\Practice with lists WH- 1.5\obj\Debug\Practice with lists WH- 1.5.pdb

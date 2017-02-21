@@ -1,0 +1,65 @@
+In C#,Java, or C++ using visual studio or IntelliJ do the following:
+
+//declare a list  of integers called intList
+//declare a list of doubles  called dblList
+//declare a list of strings  called strList
+//declare a list of bools called boolList
+
+//add the following elements to intList : 1,2,3,4,5
+//add the following elements to dblList: 123.4,43.4,12.4,65.7
+//add the following elements to strList: "What", " did one"," ocean"," say to"," the  other?"
+//add the following elements to bool List: true, true, false
+
+//set element 0 of intList to be 13
+//set element 1 of intList to be 8
+//set element 2 of intList to be 9
+//set element 3 of intList to be 7
+//set element 4 of intList to be 6
+
+//set the first element (element 0)of dblList to be 13
+//set the second element (element 1)of dblList to be 17.7
+//set the fourth element (element 3)of dblList to be 21.512
+
+//print out all of the values of intList  - for the printing reccommend using loops 
+//print out all of the values of dblList  - also might want to put into function
+//print out all of the values of strList
+
+//set the fourth element (element 3)of strList to be " just"
+//set the second element (element 1)of strList to be ", "
+//set the fifth element  (element 4)of strList to be " waved."
+//set the third element  (element 2)of strList to be " it"
+//set the first element  (element 0)of strList to be "Nothing"
+
+//add the following elements to intList 1,2,3,4,5,6,7,8,9,10
+//add the following elements to dblList 12,2.3,5.43
+
+//print out the number of elements in intList
+//print out the number of elements in dblList
+//print out the number of elements in strList
+
+//print out all of the values of intList  - for the printing reccommend using loops 
+//print out all of the values of dblList  - also might want to put into a function
+//print out all of the values of strList
+
+//set the fourth element (element 3)of strList to be " when he"
+//set the second element (element 1)of strList to be "you call "
+//set the fifth element  (element 4)of strList to be " skips church?"
+//set the third element  (element 2)of strList to be "Batman"
+//set the first element  (element 0)of strList to be "What do "
+
+//print out all of the values of strList
+
+//add "Christian" to strList
+//add "Bale" to strList
+
+//print out all of the values of strList
+
+//set the fourth element (element 3)of strList to be " round"
+//set the second element (element 1)of strList to be "Invented "
+//set the sixth element  (element 5)of strList to be " Cumference "
+//set the fifth element  (element 4)of strList to be " table?"
+//set the third element  (element 2)of strList to be "the"
+//set the sixth element  (element 5)of strList to be " Sir "
+//set the first element  (element 0)of strList to be "Who "
+
+//print out all of the values of strList

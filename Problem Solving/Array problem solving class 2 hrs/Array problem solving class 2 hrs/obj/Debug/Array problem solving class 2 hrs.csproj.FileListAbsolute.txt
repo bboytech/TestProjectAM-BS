@@ -1,0 +1,6 @@
+H:\Problem Solving\Array problem solving class 2 hrs\Array problem solving class 2 hrs\bin\Debug\Array problem solving class 2 hrs.exe.config
+H:\Problem Solving\Array problem solving class 2 hrs\Array problem solving class 2 hrs\bin\Debug\Array problem solving class 2 hrs.exe
+H:\Problem Solving\Array problem solving class 2 hrs\Array problem solving class 2 hrs\bin\Debug\Array problem solving class 2 hrs.pdb
+H:\Problem Solving\Array problem solving class 2 hrs\Array problem solving class 2 hrs\obj\Debug\Array problem solving class 2 hrs.csprojResolveAssemblyReference.cache
+H:\Problem Solving\Array problem solving class 2 hrs\Array problem solving class 2 hrs\obj\Debug\Array problem solving class 2 hrs.exe
+H:\Problem Solving\Array problem solving class 2 hrs\Array problem solving class 2 hrs\obj\Debug\Array problem solving class 2 hrs.pdb

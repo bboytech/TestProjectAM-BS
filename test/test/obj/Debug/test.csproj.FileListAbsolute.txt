@@ -1,0 +1,6 @@
+H:\(3) Arrays and List\test\test\bin\Debug\test.exe.config
+H:\(3) Arrays and List\test\test\bin\Debug\test.exe
+H:\(3) Arrays and List\test\test\bin\Debug\test.pdb
+H:\(3) Arrays and List\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+H:\(3) Arrays and List\test\test\obj\Debug\test.exe
+H:\(3) Arrays and List\test\test\obj\Debug\test.pdb

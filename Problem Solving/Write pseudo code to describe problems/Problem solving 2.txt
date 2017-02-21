@@ -1,0 +1,82 @@
+/* Problem 9.6 Parallelogram Words
+
+General Statement:
+Output a given word horizontally and multiple times vertically so that each letter in the horizontal word matches the position of that letter vertically.
+
+Input: 
+a word
+
+Output: 
+The horizontal word is to be in the center of the output. Each vertical word is to read down from the top. The first vertical word uses the first letter of the horizontal word. The last vertical word uses the last letter of the horizontal word.
+
+All outputs are to have the same left edge vertically.
+
+The output is to be formatted exactly like that for the sample output given below.
+
+Assumptions: 
+All letters are upper case. The maximum word length is 10.
+
+Sample Input:
+TEST
+
+
+
+
+// Input string.
+	string value = "Dot Net Perls";
+
+	// Use ToCharArray to convert string to array.
+	char[] array = value.ToCharArray();
+
+	// Loop through array.
+	for (int i = 0; i < array.Length; i++)
+	{
+	    // Get character from array.
+	    char letter = array[i];
+	    // Display each letter.
+	    Console.Write("Letter: ");
+	    Console.WriteLine(letter);
+	}
+    }
+}
+
+Output
+Sample output:
+   T
+  TE
+ TES
+TEST
+EST
+ST
+T
+ 
+Sample Input:
+SAMPLE
+
+Sample Output:
+     S
+    SA
+   SAM
+  SAMP
+ SAMPL
+SAMPLE
+AMPLE
+MPLE
+PLE
+LE
+E
+
+Sample Input:
+ART
+
+Sample Output:
+  A
+ AR
+ART
+RT
+T */
+
+1)get input that is a string 
+2)get the input into an arry 
+3)print each letter adding a new letter the next line until the full word is shown
+4) then sub one letter at a time in each line printed

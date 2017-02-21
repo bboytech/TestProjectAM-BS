@@ -1,0 +1,6 @@
+H:\(3) Arrays and List\looping with array\looping with array\bin\Debug\looping with array.exe.config
+H:\(3) Arrays and List\looping with array\looping with array\bin\Debug\looping with array.exe
+H:\(3) Arrays and List\looping with array\looping with array\bin\Debug\looping with array.pdb
+H:\(3) Arrays and List\looping with array\looping with array\obj\Debug\looping with array.csprojResolveAssemblyReference.cache
+H:\(3) Arrays and List\looping with array\looping with array\obj\Debug\looping with array.exe
+H:\(3) Arrays and List\looping with array\looping with array\obj\Debug\looping with array.pdb
